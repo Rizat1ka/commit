@@ -1,0 +1,26 @@
+/*That's function was added to show how module is working.*/
+header {
+  background-color: white;
+}
+
+.ad__1 {
+  color: purple;
+  width: 1000px;
+  position: absolute;
+  left: 50%;
+  margin-left: -500px;
+  border: 2px groove blue;
+  display: block;
+}
+
+.ad__2 {
+  color: #0e0b58;
+}
+
+.ad__3 {
+  color: red;
+}
+
+.ad__4 {
+  color: blue;
+}

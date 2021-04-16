@@ -1,0 +1,24 @@
+@import "_header";
+
+
+.ad__1 {
+    color:purple;
+width: 1000px;
+position:absolute
+left: 50%;
+margin-left: -500px;
+border:2px groove blue;
+display:block;
+z-index:2;
+}
+.ad__2 {
+color:rgb(14, 11, 88);
+margin:50px auto;
+border: 2px inset red; 
+}
+.ad__3 {
+    color:red;
+}
+.ad__4 {
+    color:blue;
+}
